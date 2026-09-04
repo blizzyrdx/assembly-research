@@ -17,3 +17,5 @@ _main:
 .data
 msg:
     .ascii "Hello, World!\n"
+
+#run with clang main.s -o hello AND ./hello
